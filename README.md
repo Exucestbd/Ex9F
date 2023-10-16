@@ -26,4 +26,4 @@ The Ex9F Expert Advisor, developed by Exucest, is a comprehensive and versatile 
 With Ex9F, you can take control of your trading and potentially capitalize on rapid market movements, making it a valuable addition to your trading toolbox.
 
 
-For inquiries, contact exucestbd@mail.com.
+For inquiries, contact exucestbd@gmail.com.
