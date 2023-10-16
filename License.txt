@@ -1,0 +1,24 @@
+EX9F License under DFSA Jurisdiction
+
+This license is an agreement between you ("Licensee") and Exucest ("Licensor"), the owner of the Expert Advisor ("EA") named "EX9F." By using or downloading the EA, you agree to be bound by the terms and conditions of this exclusive license.
+
+1. Exclusive License:
+   - This license grants Licensee an exclusive, non-transferable, and revocable right to use the EA for personal trading purposes only. The EA may not be used for commercial purposes, sold, or distributed without the explicit written permission of Exucest.
+
+2. Ownership:
+   - The EA "EX9F" is exclusively owned by Exucest. Licensee acknowledges and agrees that all rights, titles, and interests in the EA, including intellectual property rights, are exclusively retained by Exucest.
+
+3. Liability:
+   - Exucest shall not be liable for any damages or losses resulting from the use or misuse of the EA. Use the EA at your own risk.
+
+4. License Termination:
+   - This exclusive license is effective indefinitely unless terminated by either party. Exucest reserves the exclusive right to terminate this license if Licensee violates any terms. Upon termination, Licensee must cease using the EA.
+
+5. Governing Law:
+   - This exclusive license is governed by the laws of the United Arab Emirates (UAE) and is under the exclusive jurisdiction of the Dubai Financial Services Authority (DFSA).
+
+By downloading and using the EA "EX9F," Licensee agrees to be bound by the terms and conditions of this exclusive license.
+
+For questions or inquiries, contact Exucest at exucestbd@gmail.com.
+
+16 October 2023
